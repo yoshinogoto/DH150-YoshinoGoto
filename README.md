@@ -5,4 +5,4 @@
 
 
 ## Website #1: Goodreads
-<img src=”./Goodreads.png” width=”50%">
+![Goodreads website](Goodreads.png)
