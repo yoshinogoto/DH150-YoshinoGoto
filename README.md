@@ -1,7 +1,7 @@
 # Reading Tracker App
 Yoshino Goto\
 Digital Humanities 150\
-My project of interest is a reading tracker app that allows readers to track books they have read. I want to create an app that makes it easy, fun, and accomplishing for users to read and record books they have read. 
+My project of interest is a reading tracker app that allows readers to track books they have read. I want to create an app that makes it easy, fun, and accomplishing for users to read and record books they have read. Thus, I decided to explore two tools that many readers use to track books they've read: Goodreads, a website, and Bookly, a mobile app.
 
 
 ## Website #1: Goodreads
