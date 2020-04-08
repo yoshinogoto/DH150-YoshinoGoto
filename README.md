@@ -43,30 +43,31 @@ Overall, the website is relatively user-friendly and does its job as a place to 
 <img src="./Bookly.png" width="30%">
 
 https://getbookly.com/
-### About Goodreads
-Bookly is an app where users can track books they have read or are planning to read. It also allows users to track the amount of time they have read so that they can make reading a habit more easily.
+### About Bookly
+Bookly is an app where users can track books they have read or are planning to read. It also allows users to track the amount of time they have read so that they can make reading a regular habit.
 
-### Overall Evaluation of the Website
-
+### Overall Evaluation of the App
+The main issue of the app lies in lack of help and documentation for errors such as not being able to manually add a book. In addition, it should generate search result recommendations as the user is searching in the search bar to make it easier for the user to recognize the book they are looking for. Other than that, the app is successful in its goal of helping users track what they read and record how much they have read.
 
 ### Heuristics Evaluation
 1. **Visibility of system status**
-* 
+* There weren't any issues with this. For example, the app shows users how far they are in the "getting started" step and how many pages they have read in each book.
 2. **Match between system and real world**
-* 
+* While it uses easy-to-understand language for the most part, some of the words in the achievement section are hard to understand, such as "abecedarian" or "philomath." This could be the point as this is a reading app and the designers may have wanted to use long words to make users feel like they have achieved something big, users would not feel accomplished if they do not know what the achievement title really means. However, achievements do not serve a critical function to the app, so this would be of medium severity. (2)
 3. **User control and freedom**
-* 
+* When user starts a reading session, the session starts immediately without any warning or confirmation; although there is a pause button, users should have freedom to start session whenever. This is not really a major problem once the user gets used to using the app, so I put it as low severity. (1)
 4. **Consistency and standards**
-* 
+* The app does a good job on this. It uses key words like "session" to refer to each block of time spent reading.
 5. **Error prevention**
-* 
+* When adding a book, the app writes towards the bottom of the screen which fields are required, but it is too small and hard to notice, thus causing users to feel frustrated when they try to register a book but do not enter all the required fields. (2)
 6. **Recognition rather than recall**
-* 
+* Unlike Goodreads, possible books the user is looking for do not automatically pop up when they put something in the search bar. It would be much easier and less frustrating if the user can just recognize the book they are looking for instead of trying to recall the full title of the book. (2)
 7. **Flexibility and efficiency of use**
-* 
+* There are some shortcuts such as swiping instead of clicking an arrow button to go to the stats page.
+* However, the app could make it more efficient for the users by making shortcuts such as quick-adding reading sessions. (1)
 8. **Aesthetic and minimalist design**
-* 
+* There are not a lot of issues with this, but ads for in-app purchases are sometimes unpleasing when they pop-up at the user instead of a banner. (1)
 9. **Help users recognize, diagnose, and recover from errors**
-* 
+* When the user is unable to add a book, the app does not specify which part was not filled out, so it is hard for the user to recognize what his/her error was. This is a critical issue because users do not know how to fix their error. (3)
 10. **Help and documentation**
-* 
+* Like mentioned in #9, the app does not provide helpful documentation to recover from errors. Thus, this is a critical issue. (3)
