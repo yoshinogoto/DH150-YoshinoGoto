@@ -40,7 +40,7 @@ Overall, the website is relatively user-friendly and does its job as a place to 
  
 
 ## App #2: Bookly
-<img src="./Bookly.png" width="50%">
+<img src="./Bookly.png" width="30%">
 
 https://getbookly.com/
 ### About Goodreads
