@@ -39,4 +39,34 @@ Overall, the website is relatively user-friendly and does its job as a place to 
 * The website does a good job with its documentation. For example, when they could not generate any book recommendations for the user, they (1)tell him/her why (because the user did not rate enough books) and (2)gives a link to where the user can rate more books.
  
 
+## App #2: Bookly
+![Bookly app](Bookly.png)
 
+https://getbookly.com/
+### About Goodreads
+Bookly is an app where users can track books they have read or are planning to read. It also allows users to track the amount of time they have read so that they can make reading a habit more easily.
+
+### Overall Evaluation of the Website
+
+
+### Heuristics Evaluation
+1. **Visibility of system status**
+* 
+2. **Match between system and real world**
+* 
+3. **User control and freedom**
+* 
+4. **Consistency and standards**
+* 
+5. **Error prevention**
+* 
+6. **Recognition rather than recall**
+* 
+7. **Flexibility and efficiency of use**
+* 
+8. **Aesthetic and minimalist design**
+* 
+9. **Help users recognize, diagnose, and recover from errors**
+* 
+10. **Help and documentation**
+* 
