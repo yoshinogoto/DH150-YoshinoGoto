@@ -25,7 +25,7 @@ Goodreads is a website where book readers can track books they have read, want t
 * It is good that the website uses conventions like highlighting a word or underlining a word when a user hovers over a clickable link, but it could be standardized to just one convention for consistency. (1)
 **5. Error prevention**
 * I could not manually add a book because my email address was not verified. This could be a critical problem, because it could be a major obstacle that deters users away from using the website. It should either give a link to resend an email verification, text a code to the user's mobile device, or let the user know right away after getting started to verify their email to prevent future errors. (3)\
-**6. **Recognition rather than recall**
+**6. Recognition rather than recall**
 * The website does a good job with this. For example, when searching for a book, the website generates possible books with the word the user typed so far, so that the user can just recognize the book they are looking for.\
 **7. Flexibility and efficiency of use**
 * Although there are many, many functions you can perform in this website, there aren’t any shortcuts and even if there are any, they are very hard to discover or not documented anywhere, making it hard for any user, novice or experienced, to find them. However, shortcuts are not critical or necessary for users to use the website, so this is a problem with medium severity. (2)\
