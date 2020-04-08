@@ -12,6 +12,7 @@ https://www.goodreads.com/
 Goodreads is a website where book readers can track books they have read, want to read, read book reviews, and share books with friends and people around the world.
 
 ### Overall Evaluation of the Website
+Overall, the website is relatively user-friendly and does its job as a place to track books users have read and want to read. However, the main issues with this website lie in error prevention and minimalist design. While it does provide good documentation for solving many of the problems users encounter, it should create a design that prevents many of these errors such as email addresses not being verified. In addition, the aesthetics of the website feel very cluttered and difficult to use, which could deter users away from using Goodreads. 
 
 ### Heuristics Evaluation
 1. **Visibility of system status**
