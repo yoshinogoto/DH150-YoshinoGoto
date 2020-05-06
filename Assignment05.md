@@ -64,5 +64,9 @@
 <img src="./Persona%203%20Journey%20Map.png">
 
 
+## Reflection
+* Coming up with personas was more difficult than I expected. Thinking of unbiased, diverse personas while taking everything from the heuristic evaluations and user interviews into account made me really feel like I knew these users personally. 
+* Next time, I would also like to take research about more demographic information, such as the main population group that
+reads books or uses reading apps, to make decisions abour personas.
 
 
