@@ -51,10 +51,10 @@ but also a creative outlet. Another motivation for keeping track of books was to
 3. Write a book log and publish it to the public
 
 
-## Prototype
+## 🛠 Prototype
 <img src="./LoFiPrototype_Original.png">
 
-## Prototype Testing
+## 🖍 Prototype Testing
 1. During Task 1: Search *Pachinko* by title from home screen and add it to “want to read” shelf
 <img src="./LoFiPrototype_01.png" width="70%">
 
@@ -68,5 +68,28 @@ but also a creative outlet. Another motivation for keeping track of books was to
 <img src="./LoFiPrototype_03.png" width="70%">
 
 
+## 🔍 Reflection
+* What went smoothly: 
 
+  * Task 1: The participant was able to smoothly get from the home screen to the search bar, then searching the book title, and getting to the book overview.
+  * Task 2: Although it took a little longer than expected, the participant was able to get from the “share” button and find the person to send it to. 
+  * Task 3: The participant was able to complete this the most smoothly. She also mentioned that she liked the option to be able to limit who to share the book logs to.
+ 
+* What went wrong: 
+
+  * Task 1: The participant was confused about where some of the arrows go and could not find the button that goes to selecting a bookshelf.
+  * Task 2: The participant was confused about where the arrows go, which is why it took longer than expected to complete the task. She also wondered whether a book could be sent to multiple people at once.
+  * Task 3: After completing the book log, the participant did not know how to get back to the home screen. She also mentioned some features she wanted to see, such as: (1) being able to see time spent reading, (2) being able to buy books through the app, (3) friends being able to see your favorite books and recommendations, (4) being able to see friends’ reactions to a book log.
+
+* What I would change:
+
+  Two main issues:
+ 
+   * Flow. The participant was confused about where the arrows go for 2 out of the 3 tasks. I should make the arrows clearer and make sure there is a clear way to get back to the home screen or to the previous page in every screen. I would make the "add to shelf" button bigger, because the user had a hard time reaching to that button from the arrows I drew. I would also like to add a confirmation page for after the user has successfully added a book to a shelf, because the user seemed confused about whether there was an arrow that would lead to somewhere after adding the book to the shelf. By adding a confirmation page, the user will know that he/she has completed the desired task.  
+   * More social features. The participant wanted to see if she could send a book to multiple people at once, if other people can view your profile, and if she could see friends’ activities. Thus, I would add more features to connect to people.
+
+  *side note*: I thought it was interesting to see that the participant wanted the “log a book” button to say “log for today” instead. She said that sometimes, when you are reading a long book, it may be discouraging to say “log a book,” because it implies you can’t log it until you finish it. Thus, “log for today” sounds friendlier and easier to log. She also mentioned that instead of displaying the number of friends on the profile, displaying the number of people you are following might be better. She said that if she were to follow any authors or celebrities, she would want to be able to see that. Some of these statements she made made me think about the role of UX content and how the vocabulary used in the interface could change how a user perceives his/her experience.
+
+
+  
 
