@@ -21,7 +21,7 @@ and colors of your log.
 
 ## 👩‍🎨 Graphical Interface Design Decisions
 * For my final revision of the prototype, I picked green as my main colors because I thought they would be easier on the eyes of book readers. I wanted to give the whole app a relaxing and clean feel, reminiscent of a library. 
-* I applied the Gestalt principles such as proximity, symmetry, and similarity to distinguish a group of buttons from others. For example, in the book overview screens from above, the circles that allow the users to navigate between the book cover, book information, and author information, are close together and similar to show that they are grouped together.
+* I applied the Gestalt principles such as proximity, symmetry, and similarity to distinguish a group of buttons from others. For example, in the book overview screens below, the circles that allow the users to navigate between the book cover, book information, and author information, are close together and similar to show that they are grouped together.
 * I made most buttons as rectangles with rounded edges. They are all the same shape to make it consistent and easy for the user to notice that they are pressable buttons.
 
 ## 📱 Examples of Screen Designs
