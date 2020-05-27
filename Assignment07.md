@@ -77,12 +77,16 @@ Here's my wireflow for all of the screens:
 
 
 ## 🖍 Main Revisions
-* Change the colors of the app from gray to green, because I felt like gray was too cold and professional. Some participants noted that the app felt very professional, but I wanted to go for a more friendly, casual look, because this is essentially a social media app.
+* Change the colors of the app from gray to green, because I felt like gray was too cold and professional. Some participants noted that the app felt very professional, but I wanted to go for a more friendly, casual look because this is a social media app. 
+
 <img src="./PrototypeVer1.png" width="50%"> <img src="./PrototypeVer2.png" width="40%"> 
+
 * Made the fonts larger for the home screen. I also changed the "search" in the bottom to be "browse." 
 <img src="./PrototypeVer1_03.png" width="40%"> <img src="./PrototypeVer2_03.png" width="40%">
+
 * Moved the “create new shelf” button at the top and moved the “done” button below the existing bookshelves. During the usability tests, I noticed that most people’s mouses travel downward, so the most natural thing would be to put the “done” button below everything so that once a user finishes an action, s/he will just have to travel down to finish the interaction. 
 <img src="./PrototypeVer1_02.png" width="40%"> <img src="./PrototypeVer2_02.png" width="40%">
+
 * Put labels for my icons. Also made the "add to cart" button visible in my prototype. This made me wonder...How effective are icons if I need labels for most of them? I am sure many easily recognizable ones, such as search icons or home icons, are very helpful. However, seeing users not be able to recognize the share icon was interesting because I felt like it was a pretty conventional icon. So, I wonder how effective icons are in helping users recognize buttons.
 <img src="./PrototypeVer1_04.png" width="40%"> <img src="./PrototypeVer2_04.png" width="39%">
 
