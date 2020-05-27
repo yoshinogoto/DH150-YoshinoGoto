@@ -47,9 +47,9 @@ Here's my wireflow for all of the screens:
 
 > "Feels very familiar and straightforward"
 
-> "The 'people' button in the search results is unclear"
-
 > "Bottom bar is consistently there"
+
+> "Feels professional"
 
 ## 🎨 Accessibility (Color Contrast) Check
 * I picked dark green and light green for a relaxing feel and made the backgrounds an ivory color to make it less harsh on the eyes. The contrasts between the text and the background all passed the WCAG 2.0 AA & AAA levels.
@@ -57,7 +57,7 @@ Here's my wireflow for all of the screens:
 
 ## 🏃‍♀️ Cognitive Walkthrough
 * The main feedback received from my peers were about some inconsistencies in the app, such as the search bar being at the top and another search button being at the bottom. They suggested I could delete, or possibly change it to a browse button that leads to personalized recommendations and popular books.
-* Some people also mentioned that the 'people' button in the search results is unclear and suggested I could change it to 'users,' to clarify. 
+* Some people also mentioned that the font seemed small, especially on the home screen.  
 
 ## ✔️ Usability Tests
 * I conducted four usability tests among my classmates. This is the link to my [Questionnaire](https://docs.google.com/forms/d/1gFEl9FnyQJAbu2WAQkpiq2jUFWfagpK3CQgNGD3jSMU/prefill).
