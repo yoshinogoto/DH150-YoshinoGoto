@@ -85,6 +85,7 @@ Here's my wireflow for all of the screens:
 <img src="./PrototypeVer1_03.png" width="40%"> <img src="./PrototypeVer2_03.png" width="40%">
 
 * Moved the “create new shelf” button at the top and moved the “done” button below the existing bookshelves. During the usability tests, I noticed that most people’s mouses travel downward, so the most natural thing would be to put the “done” button below everything so that once a user finishes an action, s/he will just have to travel down to finish the interaction. 
+
 <img src="./PrototypeVer1_02.png" width="40%"> <img src="./PrototypeVer2_02.png" width="40%">
 
 * Put labels for my icons. Also made the "add to cart" button visible in my prototype. This made me wonder...How effective are icons if I need labels for most of them? I am sure many easily recognizable ones, such as search icons or home icons, are very helpful. However, seeing users not be able to recognize the share icon was interesting because I felt like it was a pretty conventional icon. So, I wonder how effective icons are in helping users recognize buttons.
