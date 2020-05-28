@@ -52,20 +52,20 @@ but also a creative outlet. Another motivation for keeping track of books was to
 
 
 ## 🛠 Prototype
-<img src="./LoFiPrototype_Original.png">
+<img src="/images/LoFiPrototype_Original.png">
 
 ## 🖍 Prototype Testing
 1. During Task 1: Search *Pachinko* by title from home screen and add it to “want to read” shelf
-<img src="./LoFiPrototype_01.png" width="70%">
+<img src="/images/LoFiPrototype_01.png" width="70%">
 
 
 2. During Task 2: Look at the overview of *Pachinko* and share it to Ashley, your friend who also uses the app
-<img src="./LoFiPrototype_02.png" width="70%">
+<img src="/images/LoFiPrototype_02.png" width="70%">
 
 
 3. During Task 3: Write a book log and publish it to the public
 (includes some notes I took after I asked the participant if she had anything else she wanted to add)
-<img src="./LoFiPrototype_03.png" width="70%">
+<img src="/images/LoFiPrototype_03.png" width="70%">
 
 
 ## 🔍 Reflection
