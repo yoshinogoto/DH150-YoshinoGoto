@@ -3,8 +3,8 @@
 ## 📝 Description of Project
 * This is a high-fidelity prototype of a social media app for book readers, essentially like Goodreads, 
 with some added features. My process of creating this prototype was: 
-(1) referring to the [low-fidelity prototype](https://github.com/yoshinogoto/DH150-YoshinoGoto/edit/master/Assignment06.md)
-and [my personas](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment05.md) to create the three features on Figma, 
+(1) referring to the [low-fidelity prototype](https://github.com/yoshinogoto/DH150-YoshinoGoto/edit/master/Assignment06/Assignment06.md)
+and [my personas](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment05/Assignment05.md) to create the three features on Figma, 
 (2) a cognitive walkthrough and impression test with three of my classmates, 
 (3) 4 usability tests with my classmates, 
 (4) revision. 
@@ -26,17 +26,17 @@ and colors of your log.
 
 ## 📱 Examples of Screen Designs
 * Home Screen 
-<img src="./ExScreen2.png" width="25%">
+<img src="/images/ExScreen2.png" width="25%">
 
 * Book Overview Screens
-<img src="./ExScreen1.png" width="60%">
+<img src="/images/ExScreen1.png" width="60%">
 
 * Sharing Screens
-<img src="./ExScreen4.png" width="60%">
+<img src="/images/ExScreen4.png" width="60%">
 
 ## 🔀 Wireflow
 Here's my wireflow for all of the screens:
-<img src="./Wireflow.png" width="90%">
+<img src="/images/Wireflow.png" width="90%">
 
 ## 🤏 Interactive Prototype
 [Link to Prototype](https://www.figma.com/proto/vQgROUikqRg7ot0jH1p4jb/DH-150-Assignment-7?node-id=1%3A2&scaling=min-zoom)
@@ -53,7 +53,7 @@ Here's my wireflow for all of the screens:
 
 ## 🎨 Accessibility (Color Contrast) Check
 * I picked dark green and light green for a relaxing feel and made the backgrounds an ivory color to make it less harsh on the eyes. The contrasts between the text and the background all passed the WCAG 2.0 AA & AAA levels.
-<img src="./ColorContrast1.png" width="40%"> <img src="./ColorContrast2.png" width="40%"> <img src="./ColorContrast3.png" width="40%">
+<img src="/images/ColorContrast1.png" width="40%"> <img src="/images/ColorContrast2.png" width="40%"> <img src="/images/ColorContrast3.png" width="40%">
 
 ## 🏃‍♀️ Cognitive Walkthrough
 * The main feedback received from my peers were about some inconsistencies in the app, such as the search bar being at the top and another search button being at the bottom. They suggested I could delete, or possibly change it to a browse button that leads to personalized recommendations and popular books.
@@ -79,17 +79,17 @@ Here's my wireflow for all of the screens:
 ## 🖍 Main Revisions
 * Change the colors of the app from gray to green, because I felt like gray was too cold and professional. Some participants noted that the app felt very professional, but I wanted to go for a more friendly, casual look because this is a social media app. 
 
-<img src="./PrototypeVer1.png" width="50%"> <img src="./PrototypeVer2.png" width="40%"> 
+<img src="/images/PrototypeVer1.png" width="50%"> <img src="/images/PrototypeVer2.png" width="40%"> 
 
 * Made the fonts larger for the home screen. I also changed the "search" in the bottom to be "browse." 
-<img src="./PrototypeVer1_03.png" width="40%"> <img src="./PrototypeVer2_03.png" width="40%">
+<img src="/images/PrototypeVer1_03.png" width="40%"> <img src="/images/PrototypeVer2_03.png" width="40%">
 
 * Moved the “create new shelf” button at the top and moved the “done” button below the existing bookshelves. During the usability tests, I noticed that most people’s mouses travel downward, so the most natural thing would be to put the “done” button below everything so that once a user finishes an action, s/he will just have to travel down to finish the interaction. 
 
-<img src="./PrototypeVer1_02.png" width="40%"> <img src="./PrototypeVer2_02.png" width="40%">
+<img src="/images/PrototypeVer1_02.png" width="40%"> <img src="/images/PrototypeVer2_02.png" width="40%">
 
 * Put labels for my icons. Also made the "add to cart" button visible in my prototype. This made me wonder...How effective are icons if I need labels for most of them? I am sure many easily recognizable ones, such as search icons or home icons, are very helpful. However, seeing users not be able to recognize the share icon was interesting because I felt like it was a pretty conventional icon. So, I wonder how effective icons are in helping users recognize buttons.
-<img src="./PrototypeVer1_04.png" width="40%"> <img src="./PrototypeVer2_04.png" width="39%">
+<img src="/images/PrototypeVer1_04.png" width="40%"> <img src="/images/PrototypeVer2_04.png" width="39%">
 
 ## 💭 Reflection
 * Summary: Overall, I think I was able to reach my goal of making an app that meets the needs of my three personas. I was able to make revisions after my usability tests, and I was able to experience the process of iterative design first-hand.
