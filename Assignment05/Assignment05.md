@@ -8,24 +8,24 @@
 ## 👤 Persona & Empathy Map
 
 ### Persona 1: Mai Nguyen - aspiring pediatrician and creative reader
-![Mai Nguyen Persona](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Persona%201.png)
+![Mai Nguyen Persona](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/images/Persona%201.png)
 
 #### Mai's Empathy Map
-<img src="./Persona%201%20Empathy%20Map.png" width="60%">
+<img src="/images/Persona%201%20Empathy%20Map.png" width="60%">
 
 
 ### Persona 2: Nicole Davis - organized, social reader
-<img src="./Persona2.png">
+<img src="/images/Persona2.png">
 
 #### Nicole's Empathy Map
-<img src="./Persona%202%20Empathy%20Map.png" width="60%">
+<img src="/images/Persona%202%20Empathy%20Map.png" width="60%">
 
 
 ### Persona 3: David Clark - bookworm grandpa
-<img src="./Persona%203.png">
+<img src="/images/Persona%203.png">
 
 #### David's Empathy Map
-<img src="./Persona%203%20Empathy%20Map.png" width="60%">
+<img src="/images/Persona%203%20Empathy%20Map.png" width="60%">
 
 
 
@@ -39,7 +39,7 @@
 > During her lunch break, Mai turns her phone on to log a book: Charlotte’s Web. When she opens the application, there is a button to “log book” in the menu, so she presses that. A new window pops up and she fills in the empty spaces that say “What’s the title?” “Who’s the author?” “What’s the genre?” “What did you think of this book?”... and so on. After typing those sections, Mai looks at the book log journal-entry, and decides to add some color. She clicks the edit button, and clicks the option to highlight certain sections and change the color and font of the words. Feeling satisfied, she presses the “publish” button, where she can share it through various social media and even print it as a pdf. 
 
 #### Mai's Journey Map
-<img src="./Persona%201%20Journey%20Map.png">
+<img src="/images/Persona%201%20Journey%20Map.png">
 
 
 ### 2. Nicole's Scenario & Journey Map
@@ -50,7 +50,7 @@
 > After dinner, Nicole opens the app to see that her friend Lisa posted a comment about a book she and her friends are reading together. She responds to the comment by clicking the “reply” button under Lisa’s comment. Nicole also found a new book she wants to read with them, so she types in the title of the book in the search bar, then clicks “share,” and shares them to her friends.
 
 #### Nicole's Journey Map
-<img src="./Persona%202%20Journey%20Map.png">
+<img src="/images/Persona%202%20Journey%20Map.png">
 
 
 ### 3. David's Scenario & Journey Map
@@ -61,7 +61,7 @@
 > Since his older grandchild asked if he knows any historical fiction novels, David decides to share with him All Quiet on the Western Front. He searches the title in the search bar, then finds the book as the first result. He clicks on it, and then clicks the “share” button. The shared book goes to the private group he has with his grandchildren on the application. Then, he goes back to the home screen, where he clicks on the “notes” section, because he wants to read a book he has not touched in a few weeks. He jogs his memory by reading his notes, and starts reading the book.
 
 #### David's Journey Map
-<img src="./Persona%203%20Journey%20Map.png">
+<img src="/images/Persona%203%20Journey%20Map.png">
 
 
 ## Reflection
