@@ -5,9 +5,9 @@ My project of interest is a reading tracker app that allows readers to track boo
 
 
 ## Website #1: Goodreads
-![Goodreads website](Goodreads.png)
+<img src="/images/Goodreads.png" width="75%">
 
-https://www.goodreads.com/
+[Goodreads website](https://www.goodreads.com/)
 ### About Goodreads
 Goodreads is a website where book readers can track books they have read, want to read, read book reviews, and share books with friends and people around the world.
 
@@ -40,9 +40,9 @@ Overall, the website is relatively user-friendly and does its job as a place to 
  
 
 ## App #2: Bookly
-<img src="./Bookly.png" width="30%">
+<img src="/images/Bookly.png" width="30%">
 
-https://getbookly.com/
+[Bookly Website](https://getbookly.com/)
 ### About Bookly
 Bookly is an app where users can track books they have read or are planning to read. It also allows users to track the amount of time they have read so that they can make reading a regular habit.
 
