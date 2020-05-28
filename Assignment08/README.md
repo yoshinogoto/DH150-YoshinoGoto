@@ -8,7 +8,7 @@ website/app for bookreaders, to check out ratings of books and find recommendati
 with people feeling more lonely than usual, I thought that people's book-reading experience can be greatly improved
 by encouraging more conversations with others and organizing their thoughts about books they've read. 
 Thus, in this project, I make some changes to the Goodreads app to make people's book-reading experience more social and 
-fulfilling.
+fulfilling. 
 
 ### Clear Design Statement
 The purpose of this project is to improve the app Goodreads by allowing more social 
@@ -21,7 +21,7 @@ Overall, the website Goodreads is relatively user-friendly and does its job as a
 read. However, the main issues with this website lie in error prevention and minimalist design. While it does provide 
 good documentation for solving many of the problems users encounter, it should create a design that prevents many of these 
 errors such as email addresses not being verified. In addition, the aesthetics of the website feel very cluttered and 
-difficult to use, which could deter users away from using Goodreads. 
+difficult to use, which could deter users away from using Goodreads. [... read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment01.md)
 
 ### Competitor Analysis: Usability Testing
 Usability testing (UT) is an important part of the user-centered design (UCD) process and helps designers assess how easy 
