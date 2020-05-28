@@ -66,5 +66,7 @@ These usability tests were conducted over Zoom and with the permission of the pa
 expressions were recorded. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment07.md)
 
 ### Pitch video 
+(Coming soon)
 
 ### Conclusion: what did you learn throughout the process?
+(Coming soon)
