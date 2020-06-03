@@ -49,7 +49,7 @@ fun through creating a community of readers. [...read more](https://github.com/y
 The purpose of this low-fidelity prototype is to see whether the features I came up with work for a user. 
 I want to see if the user can navigate through the features and flow I created. 
 I also want to detect any major problems with the features, as well as any additional features the user wants to see, 
-and objectively see what I have made so far by looking at how a user interacts with it. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assingment06/Assignment06.md)
+and objectively see what I have made so far by looking at how a user interacts with it. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment06/Assignment06.md)
 
 ### High-fidelity prototype 
 This is a high-fidelity prototype of a social media app for book readers, essentially like Goodreads, 
