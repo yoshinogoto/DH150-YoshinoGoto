@@ -21,10 +21,10 @@ So, my question is: *How might I change the Goodreads app to make people's book-
 I conducted a heuristics evaluation of the Goodreads website and the Bookly app, based on the heuristics created by Jakob Nielson. I chose the evaluate these two products, so that I can get a sense of what some flaws are in the current products. I noticed that the Goodreads website works more like a social media app for bookreaders, while Bookly was more for introspection and keeping track of your own progress. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment01/Assignment01.md)
 
 <table>
-<tr>
-  <td> <img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Goodreads.png" width="400px"> </td>
-  <td> <img src=”https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Bookly.png” width=”300px”></td>
-</tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Goodreads.png" width="400px"></td>
+    <td><img src=”https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/images/Bookly.png” width=”200px”></td>
+  </tr>
 </table>
 
 
@@ -42,11 +42,11 @@ see it. Creating personas and their story lets you and your team share the same 
 filter out any biases you or your interviewees had and focus solely on the users. Thus, drawing from my user research, I came up with three personas, who interact with books differently in their lives. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment05/Assignment05.md)
 
 <table>
-<tr>
-  <td> <img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%201.png" width="300px"> </td>
-  <td> <img src=”https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona2.png” width=”300px”> </td>
-  <td> <img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%203.png" width="300px"> </td>
-</tr>
+  <tr>
+    <td> <img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%201.png" width="300px"></td>
+    <td><img src=”https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/images/Persona2.png” width=”300px”></td>
+    <td><img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%203.png" width="300px"></td>
+  </tr>
 </table>
 
 ### Wireframe and graphic design element variation
