@@ -15,12 +15,18 @@ The purpose of this project is to improve the app Goodreads by allowing more soc
 interactions and a feature to help introspect on one's thoughts by keeping a book log. The issue is that the current
 Goodreads website and app includes a lot of information that makes it difficult to navigate. By making changes to this app,
 I want to help book readers interact more with other people and the book they are reading. 
-So, my question is: How might I change the Goodreads app to make people's book-reading experience more social and fulfilling?
+So, my question is: *How might I change the Goodreads app to make people's book-reading experience more social and fulfilling?*
 
 ### Competitor Analysis: Heuristics Evaluation 
 I conducted a heuristics evaluation of the Goodreads website and the Bookly app, based on the heuristics created by Jakob Nielson. I chose the evaluate these two products, so that I can get a sense of what some flaws are in the current products. I noticed that the Goodreads website works more like a social media app for bookreaders, while Bookly was more for introspection and keeping track of your own progress. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment01/Assignment01.md)
 
-<img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Goodreads.png" height="400px">
+<table>
+<tr>
+  <td> <img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Goodreads.png" width="400px"> </td>
+  <td> <img src=”https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Bookly.png” width=”300px”></td>
+</tr>
+</table>
+
 
 ### Competitor Analysis: Usability Testing
 Usability testing (UT) is an important part of the user-centered design (UCD) process and helps designers assess how easy 
@@ -35,7 +41,13 @@ The purpose of UX storytelling is to shift your perspective to the user's perspe
 see it. Creating personas and their story lets you and your team share the same image of the users. Storytelling also helps
 filter out any biases you or your interviewees had and focus solely on the users. Thus, drawing from my user research, I came up with three personas, who interact with books differently in their lives. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment05/Assignment05.md)
 
-<img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%201.png" height="300px">
+<table>
+<tr>
+  <td> <img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%201.png" width="300px"> </td>
+  <td> <img src=”https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona2.png” width=”300px”> </td>
+  <td> <img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%203.png" width="300px"> </td>
+</tr>
+</table>
 
 ### Wireframe and graphic design element variation
 Based on my personas, I came up with three features I wanted to implement for them. (1) Simple flow and showing where they are in a particular process. (2) A share button, where users can share any book through SMS, email, Facebook, and other social media websites, or directly through friends they connect with on the app. (3) A book log button where a users can log books in a creative way. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment06/Assignment06.md)
