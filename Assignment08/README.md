@@ -22,7 +22,7 @@ I conducted a heuristics evaluation of the Goodreads website and the Bookly app,
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Goodreads.png" width="600px"></td>
+    <td><img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Goodreads.png" width="700px"></td>
     <td><img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Bookly.png" width="200px"></td>
   </tr>
 </table>
@@ -43,9 +43,8 @@ filter out any biases you or your interviewees had and focus solely on the users
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%201.png" width="300px"></td>
-    <td><img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona2.png" width="300px"></td>
-    <td><img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%203.png" width="300px"></td>
+    <td><img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%201.png" width="550px"></td>
+    <td><img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/images/Persona%201%20Empathy%20Map.png" width="300px"></td>
   </tr>
 </table>
 
