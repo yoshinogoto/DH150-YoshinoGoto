@@ -71,4 +71,8 @@ expressions were recorded. [...read more](https://github.com/yoshinogoto/DH150-Y
 (Coming soon)
 
 ### Conclusion: what did you learn throughout the process?
-(Coming soon)
+Overall, I think I was able to reach my goal of making an app that meets the needs of my three personas. I was able to make revisions after my usability tests, and I was able to experience the process of iterative design first-hand. This was my first time going through a full iterative design process, so I really learned the importance of listening to the users. 
+
+
+At first, I wanted to create a completely new app unrelated to Goodreads, but as I did more research, I noticed how hard it is to come up with a completely new app from scratch. Thus, I decided to build on the basic structure that Goodreads had. However, next time, I think I would like to create a new app. I would also do more field research and interviews to make sure the product I am making is actually reflective of a larger population. After conducting my usability tests for my high-fidelity prototype, participants said they are least likely to use the “book log” feature out of the 3 features I tested. Although I made my revisions after all of the tests were conducted, I think I would also have made changes to the design after each usability test. This would let me test through more designs and keep improving it after each test. 
+
