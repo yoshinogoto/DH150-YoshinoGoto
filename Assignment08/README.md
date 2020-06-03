@@ -60,6 +60,8 @@ with some added features. My process of creating this prototype was:
 (4) revision. The purpose of this prototype is to create and test the three features designed based on my three personas: 
 Mai, Nicole, and David, and to see if it is usable for actual users. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment07.md)
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FvQgROUikqRg7ot0jH1p4jb%2FDH-150-Assignment-7%3Fnode-id%3D1%253A2%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
+
 ### Evaluation and Revision History 
 I conducted four usability tests among my classmates for an evaluation of my design. 
 These usability tests were conducted over Zoom and with the permission of the participants, their screen and facial 
