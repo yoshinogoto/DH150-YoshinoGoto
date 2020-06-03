@@ -58,12 +58,12 @@ with some added features. My process of creating this prototype was:
 (2) a cognitive walkthrough and impression test with three of my classmates, 
 (3) 4 usability tests with my classmates, 
 (4) revision. The purpose of this prototype is to create and test the three features designed based on my three personas: 
-Mai, Nicole, and David, and to see if it is usable for actual users. [...read more](https://github.com/yoshinogoto/DH150YoshinoGoto/blob/master/Assignment07/Assignment07.md)
+Mai, Nicole, and David, and to see if it is usable for actual users. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment07.md)
 
 ### Evaluation and Revision History 
 I conducted four usability tests among my classmates for an evaluation of my design. 
 These usability tests were conducted over Zoom and with the permission of the participants, their screen and facial 
-expressions were recorded. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment07/Assignment07.md)
+expressions were recorded. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment07.md)
 
 ### Pitch video 
 (Coming soon)
