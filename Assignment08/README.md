@@ -43,7 +43,7 @@ filter out any biases you or your interviewees had and focus solely on the users
 ### Wireframe and graphic design element variation
 I want to create an app that allows people to find, share, and track books they have read, 
 based on the social book cataloging site/app Goodreads. My ultimate goal is to make reading books more 
-fun through creating a community of readers. [...read more](https://github.com/yoshinogoto/DH150YoshinoGoto/blob/master/Assignment06/Assignment06.md)
+fun through creating a community of readers. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment06/Assignment06.md)
 
 ### Low-fidelity prototype 
 The purpose of this low-fidelity prototype is to see whether the features I came up with work for a user. 
