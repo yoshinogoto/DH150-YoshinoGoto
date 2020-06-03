@@ -19,7 +19,7 @@ I want to help book readers interact more with other people and the book they ar
 ### Competitor Analysis: Heuristics Evaluation 
 I conducted a heuristics evaluation of the Goodreads website and the Bookly app, based on the heuristics created by Jakob Nielson. I chose the evaluate these two products, so that I can get a sense of what some flaws are in the current products. I noticed that the Goodreads website works more like a social media app for bookreaders, while Bookly was more for introspection and keeping track of your own progress. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment01/Assignment01.md)
 
-<img src="/images/Goodreads.png" width="75%">
+<img src="https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/images/Goodreads.png" width="75%">
 
 ### Competitor Analysis: Usability Testing
 Usability testing (UT) is an important part of the user-centered design (UCD) process and helps designers assess how easy 
@@ -34,7 +34,7 @@ The purpose of UX storytelling is to shift your perspective to the user's perspe
 see it. Creating personas and their story lets you and your team share the same image of the users. Storytelling also helps
 filter out any biases you or your interviewees had and focus solely on the users. Thus, drawing from my user research, I came up with three personas, who interact with books differently in their lives. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment05/Assignment05.md)
 
-<img src="/images/Persona%201.png" width="50%">
+<img src="https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/images/Persona%201.png" width="50%">
 
 ### Wireframe and graphic design element variation
 Based on my personas, I came up with three features I wanted to implement for them. (1) Simple flow and showing where they are in a particular process. (2) A share button, where users can share any book through SMS, email, Facebook, and other social media websites, or directly through friends they connect with on the app. (3) A book log button where a users can log books in a creative way. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment06/Assignment06.md)
@@ -42,7 +42,7 @@ Based on my personas, I came up with three features I wanted to implement for th
 ### Low-fidelity prototype 
 I came up with a low-fidelity prototype with pencil and paper to implement the three features I came up with. After creating my low-fidelity prototype, I got feedback from a participant to see if she could navigate through the features and flow I created. This let me detect some major problems, as well as any additional features she wanted to see. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment06/Assignment06.md)
 
-<img src="/images/LoFiPrototype_Original.png" width="50%">
+<img src="https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/images/LoFiPrototype_Original.png" width="50%">
 
 ### High-fidelity prototype 
 Based on the low-fidelity prototype, I created a  high-fidelity prototype using Figma. My process of creating this prototype was: 
