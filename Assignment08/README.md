@@ -72,9 +72,8 @@ expressions were recorded. [...read more](https://github.com/yoshinogoto/DH150-Y
 
 ### Pitch video 
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/RN_OyW70KpU" frameborder="0" allowfullscreen="true"></iframe>
-</figure>
+<iframe src="https://player.vimeo.com/video/425708491" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/425708491">[DH 150] Pitch Video for Redesigning the Goodreads App</a> from <a href="https://vimeo.com/user117060369">Yoshino Goto</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 ### Conclusion: what did you learn throughout the process?
