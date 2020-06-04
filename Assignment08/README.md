@@ -71,7 +71,11 @@ These usability tests were conducted over Zoom and with the permission of the pa
 expressions were recorded. [...read more](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment07.md)
 
 ### Pitch video 
-(Coming soon)
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/RN_OyW70KpU" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
+
 
 ### Conclusion: what did you learn throughout the process?
 Overall, I think I was able to reach my goal of making an app that meets the needs of my three personas. I was able to make revisions after my usability tests, and I was able to experience the process of iterative design first-hand. This was my first time going through a full iterative design process, so I really learned the importance of listening to the users. 
